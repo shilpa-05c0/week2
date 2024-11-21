@@ -1,3 +1,3 @@
 "print('hello,world!')" 
-"print('this is branch1')" 
-"print('this is branch2')" 
+"print('this is the resolved version of branch1 and branch2')" 
+
